@@ -5,4 +5,4 @@ HTML & CSS profile page for my sister's bunny rabbit 🐰🥕🎀
 
 Responsive design across different screen sizes
 
-Live at <a href="https://eleanor-rf.github.io/intro-html-css/" target="blank">https://eleanor-rf.github.io/intro-html-css/</a>
+Live at <a href="https://eleanor-rf.github.io/intro-html-css/" target="_blank">https://eleanor-rf.github.io/intro-html-css/</a>
