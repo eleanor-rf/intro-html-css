@@ -1,0 +1,136 @@
+html {
+    background-color: #cdde9d;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+body {
+    width: 80dvw;
+    max-width: 1000px;
+    background-color: #f7fbdd;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3rem;
+        box-shadow: rgb(85, 91, 255) 0px 0px 0px 2px, rgb(31, 193, 27) 0px 0px 0px 4px, rgb(255, 217, 19) 0px 0px 0px 6px, rgb(255, 156, 85) 0px 0px 0px 8px, rgb(255, 85, 85) 0px 0px 0px 10px;
+}
+
+.img-container {
+  width: 50dvw;
+  max-width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+    width: 100%;
+    padding: 0;
+    height: auto;
+    border-radius: 2rem;
+}
+
+h1, h2, h3, .grandstander-medium {
+  font-family: "Grandstander", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+p, li, .work-sans-regular {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.2rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.3rem;
+}
+
+footer {
+    text-align: center;
+}
+
+.back {
+  margin-left: 5%;
+}
+
+a {
+  outline-color: transparent;
+  border: none;
+}
+
+a:link {
+  color: #00a49c;
+}
+
+a:visited {
+  color: #213f9b;
+}
+
+a:focus {
+  border: 1px dashed #838383;
+}
+
+a:hover {
+  border: none;
+  text-decoration: none;
+  background: #d6fd6a;
+}
+
+a:active {
+  border: none;
+  background: #acfd6a;
+  color: #1d0db0;
+}
+
+#back-button {
+    color: #FFFFFF;
+}
+
+.button-1 {
+  background-color: #6a994e;
+  border-radius: 1.5rem;
+  border-style: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #8eb82b;
+}
